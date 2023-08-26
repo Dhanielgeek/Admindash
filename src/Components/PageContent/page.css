@@ -1,0 +1,8 @@
+.page-content{
+    padding-left: 12px;
+}
+.page-content .dark-mode{
+    color: #fff !important;
+    background-color: #2b2d42;
+
+}
